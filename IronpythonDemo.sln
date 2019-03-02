@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IronpythonDemo", "IronpythonDemo\IronpythonDemo.csproj", "{6C0AA5FC-6199-4624-93E6-17436736AB48}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestScriptLib", "TestScriptLib\TestScriptLib.csproj", "{0DE7CE15-4D07-4D73-8BB2-2B90FBDAEF2E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{6C0AA5FC-6199-4624-93E6-17436736AB48}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6C0AA5FC-6199-4624-93E6-17436736AB48}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6C0AA5FC-6199-4624-93E6-17436736AB48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DE7CE15-4D07-4D73-8BB2-2B90FBDAEF2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DE7CE15-4D07-4D73-8BB2-2B90FBDAEF2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DE7CE15-4D07-4D73-8BB2-2B90FBDAEF2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DE7CE15-4D07-4D73-8BB2-2B90FBDAEF2E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
